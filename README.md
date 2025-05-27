@@ -5,7 +5,7 @@ A machine learning project that predicts house prices in Bengaluru based on key 
 ## Features
 - Linear regression model for price prediction
 - Preprocessing with cleaned location and area info
-- Flask web app for prediction interface
+- Gradio web app for prediction interface
 
 ## Files
 - `banglore_house_prediction.py`: Main application or prediction script
